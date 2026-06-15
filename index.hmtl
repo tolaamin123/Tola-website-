@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tola Amin</title>
+</head>
+
+<body>
+
+<h1>Baga Nagaan Dhufte!</h1>
+
+<h2>Tola Amin</h2>
+
+<p>Barataa Programming fi Teeknooloojii.</p>
+
+<h3>Fedhii Koo</h3>
+<ul>
+  <li>Programming</li>
+  <li>Technology</li>
+  <li>Football</li>
+</ul>
+
+<button>Na Quunnami</button>
+
+</body>
+</html>
